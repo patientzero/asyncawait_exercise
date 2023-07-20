@@ -6,7 +6,7 @@ To run the demo code from the lecture, you need to install the packages from the
 ## Exercise 0:
 Get the code shown in the lecture and try to understand it.
 Start by comparing `web_api_demo_0.py` with `web_api_demo_3.py`.
-What changed and how why?
+What changed and how why? You can follow the code development in the lecture starting from `web_api_demo_0.py` to `web_api_demo_3.py`.
 
 Now, think back to the lecture and start out at `web_api_demo_0.py` and try to transform the program to the non blocking asynchronous version yourself.
 
