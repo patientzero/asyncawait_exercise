@@ -51,7 +51,7 @@ How would we avoid this?
 
 ## Exercise 4: Blocking to non blocking GUI
 
-There is a simple GUI program in the file `blocking_gui.py`.
+There is a simple `tkinter`-based GUI program in the file `blocking_gui.py`.
 Once you press the button "Calculate Sync" you can see, that the animation on top freezes.
 This is GUI element is blocked by the calculation and updating the other part of the GUI.
 
