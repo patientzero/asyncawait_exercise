@@ -2,6 +2,9 @@
 
 These exercises require python 3.10 or higher.
 To run the demo code from the lecture, you need to install the packages from the requirements.txt in the root folder of this repository.
+```
+pip install -r requirements.txt
+```
 
 ## Exercise 0:
 Get the code shown in the lecture and try to understand it.
